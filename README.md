@@ -42,8 +42,17 @@ Installing
 mkdir build
 cd build
 ccmake ../
+```
+
+Once `ccmake` is open press `c` to configue, and then `g` to generate the make
+files. After this run:
+
+```bash
 make
 ```
+
+Currently the project will be compiled into src. Thus the project can be run by
+calling: `./src/main` from the build dir.
 
 Possible Future Dependencies
 ============================
