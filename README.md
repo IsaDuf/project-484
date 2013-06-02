@@ -1,5 +1,5 @@
-This Project Still Needs A Name
-===============================
+Project 484
+===========
 
 Dependencies
 ============
@@ -39,6 +39,7 @@ Installing
 touch build
 cd build
 ccmake ../
+make
 ```
 
 Possible Future Dependencies
