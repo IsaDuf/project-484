@@ -15,6 +15,7 @@ If you use homebrew the dependancies can be installed by:
 
 ```bash
 brew install fftw
+brew install cmake
 ```
 
 Linux Debian Based:
