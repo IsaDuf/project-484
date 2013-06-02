@@ -39,7 +39,7 @@ Installing
 ==========
 
 ```bash
-touch build
+mkdir build
 cd build
 ccmake ../
 make
