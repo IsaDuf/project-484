@@ -4,8 +4,8 @@ Project 484
 Dependencies
 ============
 
-- FFTW3
-- Cmake
+- [FFTW3](http://www.fftw.org/)
+- [Cmake](http://www.cmake.org/)
 
 Clone the repo, cd to that directory.
 
