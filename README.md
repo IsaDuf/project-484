@@ -21,13 +21,15 @@ brew install cmake
 Linux Debian Based:
 
 ```bash
-apt-get install fftw # Not Tested
+sudo apt-get install libfftw3 # Not Tested
+sudo apt-get install cmake # Not Tested
 ```
 
 Linux Redhat Based:
 
 ```bash
-yum install fftw # Not Tested
+sudo yum install fftw-devel # Not Tested
+sudo yum install cmake # Not Tested
 ```
 
 Installing on windows should be possible, but for the time being it is not
