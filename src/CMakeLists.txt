@@ -1,8 +1,7 @@
 include_directories(${CMAKEDEMO_SOURCE_DIR}/src)
 #link_directories(${CMAKEDEMO_BINARY_DIR}/src)
 
-#the one C file
-add_executable(main main.c)
+add_executable(main main.cpp)
 
 #these are all compiled the same way
 #set(PROGRAMS oglfirst pointers)
