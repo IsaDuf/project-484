@@ -10,6 +10,7 @@ Dependencies
 Clone the repo, cd to that directory.
 
 OSX:
+----
 
 If you use homebrew the dependancies can be installed by:
 
@@ -19,6 +20,7 @@ brew install cmake
 ```
 
 Linux Debian Based:
+-------------------
 
 ```bash
 sudo apt-get install libfftw3 # Not Tested
@@ -26,6 +28,7 @@ sudo apt-get install cmake # Not Tested
 ```
 
 Linux Redhat Based:
+-------------------
 
 ```bash
 sudo yum install fftw-devel # Not Tested
