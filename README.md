@@ -60,4 +60,4 @@ calling: `./src/main` from the build dir.
 Possible Future Dependencies
 ============================
 
-+ libsndfile
++ [libsndfile](http://www.mega-nerd.com/libsndfile/)
